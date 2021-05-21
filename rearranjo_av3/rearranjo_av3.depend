@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1621569122 source:c:\users\luizg\onedrive\documentos\uezo\2020.2\ed1\simulador_vagoes_uezo_193333069\rearranjo_av3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"tads.h"
+
+1621569152 c:\users\luizg\onedrive\documentos\uezo\2020.2\ed1\simulador_vagoes_uezo_193333069\rearranjo_av3\tads.h
+
+1621569052 source:c:\users\luizg\onedrive\documentos\uezo\2020.2\ed1\simulador_vagoes_uezo_193333069\rearranjo_av3\tads.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"tads.h"
+
